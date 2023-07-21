@@ -22,4 +22,5 @@ This project used resnet-18 model to classify snakes. The model already had many
 7. Go to the Project by doing cd Project
 8. Run the program by doing 
 
-[View a video explanation here](video link)
+# Video
+https://youtu.be/jD3wRStoLdo
