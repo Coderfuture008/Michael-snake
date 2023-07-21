@@ -4,7 +4,7 @@
 
  The impact of this project is that many people are scared of snakes due to some snakes being venomous. My project is about letting people classify the snakes and then outputting whether the snake is venomous or not. This will allow people outside to know if they are in danger. Also, if a person has been bitten, they will know if the bite is deadly or not. This will allow some people to know if they need medical attention because they have just been bitten by a venomous and perhaps save their life.
 
-![add image descrition here](direct image link here)
+![Screenshot (11)](https://github.com/Coderfuture008/Michael-snake/assets/140195616/b674b858-9287-45f5-8437-f80bf28c9d89)
 
 ## The Algorithm
 
